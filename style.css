@@ -1,0 +1,26 @@
+body{
+    color:black;
+    background: rgb(190, 151, 240);
+    margin: 0px;
+    font-family: "Fontdiner Swanky", sans-serif;
+
+}
+
+header{
+    border-bottom: solid 2px rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(131, 29, 172);
+}
+
+section{
+    background: rgb(190, 79, 224);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+ .chamada-texto{
+    margin-right: 5%;
+ }
